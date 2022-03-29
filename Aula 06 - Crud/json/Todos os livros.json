@@ -1,0 +1,25 @@
+[
+    {
+        "_id": {
+            "$oid": "6242698c81272df6c591419d"
+        },
+        "id": 1,
+        "titulo": "Como fazer amigos e influenciar pessoas ",
+        "autor": "Dale Carnegie",
+        "ano": 1936,
+        "preco": 39.9
+    },
+    {
+        "_id": {
+            "$oid": "6242698c81272df6c591419e"
+        },
+        "id": 2,
+        "titulo": "A revolta de Atlas",
+        "autor": "Ayn Rand",
+        "ano": 1957,
+        "preco": 56.9,
+        "lastModified": {
+            "$date": "2022-03-29T02:06:03.719Z"
+        }
+    }
+]
